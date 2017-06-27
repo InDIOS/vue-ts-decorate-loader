@@ -1,5 +1,5 @@
 {
-  "name": "vue-ts-loader",
+  "name": "vue-ts-decorate-loader",
   "version": "0.0.1",
   "description": "A webpack loader for use side by side with vue-ts-decorate",
   "main": "index.js",
