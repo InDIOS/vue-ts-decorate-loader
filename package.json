@@ -7,14 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
 	"peerDependencies": {
-		"vue-hot-reload-api": "*",
-		"vue-template-compiler": "*",
-		"vue-template-es2015-compiler": "*"
+		"vue-hot-reload-api": "*"
 	},
   "dependencies": {
     "himalaya": "^0.2.10",
     "html-minifier": "^3.5.2",
-    "jstransform": "11.0.3"
+    "jstransform": "11.0.3",
+		"vue-template-compiler": "^2.3.4",
+		"vue-template-es2015-compiler": "^1.5.2"
   },
   "keywords": [],
   "author": "InDIOS",
