@@ -1,0 +1,22 @@
+{
+  "name": "vue-ts-loader",
+  "version": "0.0.1",
+  "description": "A webpack loader for use side by side with vue-ts-decorate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+	"peerDependencies": {
+		"vue-hot-reload-api": "*",
+		"vue-template-compiler": "*",
+		"vue-template-es2015-compiler": "*"
+	},
+  "dependencies": {
+    "himalaya": "^0.2.10",
+    "html-minifier": "^3.5.2",
+    "jstransform": "11.0.3"
+  },
+  "keywords": [],
+  "author": "InDIOS",
+  "license": "MIT"
+}
